@@ -1,0 +1,23 @@
+body {
+  background-color: #e4c4b5;
+}
+.container {
+  width: 50%;
+  margin:auto;
+  background-color: white;
+}
+
+.row {
+  border-radius: 5px;
+  border: solid 1px;
+  padding: 10px;
+}
+
+button {
+  background-color: rgb(168, 58, 7);
+  border:none;
+  border-radius: 3px;
+  font-size: 20px;
+  padding: 10px;
+  color: white
+}
